@@ -1,0 +1,23 @@
+@import url(__block/content__block.css);
+
+.content {
+  flex-shrink: 0;
+  display: grid;
+  grid-template-rows: minmax(min-content, max-content);
+  grid-gap: 92px;
+  width: 100%;
+  min-height: 100vh;
+  /* border: solid #5B6DCD 1px; */
+}
+
+@media screen and (max-width: 1023px) {
+  .content {
+    grid-gap: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .content {
+    grid-gap: 64px;
+  }
+}

@@ -1,0 +1,6 @@
+@import url(__narrow/block__narrow.css);
+
+.block {
+  box-sizing: border-box;
+  /* border: solid #5B6DCD 1px; */
+}

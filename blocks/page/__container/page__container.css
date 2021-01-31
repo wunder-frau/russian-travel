@@ -1,0 +1,18 @@
+.page__container {
+  min-width: 320px;
+  max-width: 1184px;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 28px auto 24px;
+  padding: 0;
+  /* border: solid #5B6DCD 1px; */
+  /* overflow:hidden; */
+}
+
+@media screen and (max-width: 767px) {
+  .page__container {
+    margin-top: 16px;
+  }
+}

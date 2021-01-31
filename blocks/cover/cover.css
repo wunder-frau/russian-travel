@@ -1,0 +1,12 @@
+@import url(__background/cover__background.css);
+@import url(__subtitle/cover__subtitle.css);
+@import url(__title/cover__title.css);
+@import url(__overlay/cover__overlay.css);
+
+.cover {
+  position: relative;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%; 
+}
