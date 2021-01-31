@@ -1,21 +1,21 @@
-.block__narrow {
+.block_narrow {
   max-width: calc(100% - ((1280px - 48px*2) - 984px));
 }
 
 @media screen and (max-width: 1279px) {
-  .block__narrow {
+  .block_narrow {
     max-width: calc(100% - 48px*2);
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .block__narrow {
+  .block_narrow {
     max-width: calc(100% - 48px);
   }
 }
 
 @media screen and (max-width: 767px) {
-  .block__narrow {
+  .block_narrow {
     max-width: calc(100% - 32px);
   }
 }
