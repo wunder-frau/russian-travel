@@ -5,6 +5,7 @@
   object-fit: cover;
   margin: 64px 0 8px;
   padding: 0;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
