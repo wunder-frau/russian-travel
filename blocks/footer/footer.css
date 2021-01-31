@@ -4,14 +4,11 @@
 @import url(__link-style/footer__link-style.css);
 
 .footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%; 
 }
-
+/* 
 @media screen and (max-width: 1279px) {
   .footer {
     padding: 0 48px;
@@ -29,4 +26,4 @@
     flex-direction: column;
     padding: 0 16px;
   }
-}
+} */
