@@ -1,23 +1,60 @@
 # Проект 3: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+**Описание**
 
-**Интро**
+В проекте [Путешествие по России](https://wunder-frau.github.io/russian-travel/) описаны некоторые интересные места, достойные отпуска.
+По макету в [Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+был создан одностраничный сайт для самых распространённых разрешений экранов (320px, 768px, 1024px, 1280px).
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+### Структура
 
-**Figma**
+|-- blocks
+|   |-- block
+|   |   `-- __narrow
+|   |-- content
+|   |   `-- __block
+|   |-- cover
+|   |   |-- __background
+|   |   |-- __overlay
+|   |   |-- __subtitle
+|   |   `-- __title
+|   |-- footer
+|   |   |-- __copyright
+|   |   |-- __link
+|   |   `-- __list
+|   |-- header
+|   |   |-- __lang-link
+|   |   |-- __lang-link_list
+|   |   |-- __lang-link_style
+|   |   `-- __logo
+|   |-- intro
+|   |   |-- __list
+|   |   |-- __text
+|   |   `-- __title
+|   |-- lead
+|   |   |-- __caption
+|   |   |-- __image
+|   |   |-- __subtitle
+|   |   `-- __title
+|   |-- page
+|   |   |-- __container
+|   |   |-- __content
+|   |   `-- __header
+|   |-- photo-grid
+|   |   |-- __item
+|   |   `-- __list
+|   `-- places
+|       |-- __image
+|       |-- __link
+|       |-- __paragraph
+|       |-- __place
+|       |-- __title
+|       |-- __url-heading
+|       `-- __website
+|-- images
+|-- pages
+`-- vendor
+    `-- fonts
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+47 directories
 
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
