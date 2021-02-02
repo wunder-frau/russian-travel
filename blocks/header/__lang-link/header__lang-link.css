@@ -6,6 +6,7 @@
   margin-right: 0;
 }
 
-.header__lang-link:nth-child(1) {
-  text-decoration: underline;
+.header__lang-link:hover {
+  opacity: .5;
+  transition: .5;
 }
