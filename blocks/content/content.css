@@ -1,5 +1,3 @@
-@import url(__block/content__block.css);
-
 .content {
   flex-shrink: 0;
   display: grid;

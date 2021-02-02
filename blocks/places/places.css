@@ -1,11 +1,3 @@
-@import url(__image/places__image.css);
-@import url(__paragraph/places__paragraph.css);
-@import url(__place/places__place.css);
-@import url(__title/places__title.css);
-@import url(__website/places__website.css);
-@import url(__url-heading/places__url-heading.css);
-@import url(__link/places__link.css);
-
 .places {
   flex-shrink: 0;
   display: grid;
