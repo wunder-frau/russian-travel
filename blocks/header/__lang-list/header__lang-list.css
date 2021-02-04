@@ -1,7 +1,6 @@
 .header__lang-list {
   display: flex;
   flex-direction: row;
-  justify-items: space-between;
   list-style: none;
   padding: 0;
   margin: auto 0;
