@@ -1,4 +1,4 @@
-.places__link {
+.place__link {
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -7,7 +7,7 @@
   color: white;
 }
 
-.places__link:hover {
+.place__link:hover {
   opacity: .5;
   transition: .5;
 }
