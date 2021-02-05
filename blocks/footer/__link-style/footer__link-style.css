@@ -3,12 +3,6 @@
   padding: 0;
 }
 
-@media screen and (max-width: 1280px) {
-  .footer__link-style {
-    margin: 0 18px 0 0;
-  }
-}
-
 @media screen and (max-width: 767px) {
   .footer__link-style {
     margin-bottom: 32px;
@@ -21,6 +15,6 @@
 }
 
 .footer__link-style:hover {
-  opacity: .5;
-  transition: .5;
+  opacity: .8;
+  transition: .8;
 }
