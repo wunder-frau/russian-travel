@@ -14,3 +14,8 @@
     line-height: 24px;
   }
 }
+
+.footer__link:hover {
+  opacity: .8;
+  transition: .8;
+}
