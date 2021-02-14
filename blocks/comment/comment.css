@@ -28,3 +28,7 @@
     max-width: 288px;
   }
 }
+
+.comment:last-child {
+  margin-bottom: 0;
+}

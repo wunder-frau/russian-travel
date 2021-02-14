@@ -22,5 +22,5 @@
 }
 
 .comments__container:last-child {
-  margin-bottom: 48px;
+  margin-bottom: 0;
 }
