@@ -2,7 +2,7 @@
   flex-shrink: 0;
   display: grid;
   grid-template-rows: minmax(min-content, max-content);
-  grid-gap: 92px;
+  grid-gap: 102px;
   width: 100%;
   min-height: 100vh;
 }

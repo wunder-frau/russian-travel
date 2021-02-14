@@ -47,3 +47,12 @@
 @import url(../blocks/footer/__link-style/footer__link-style.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/comments/comments.css);
+@import url(../blocks/content-title/content-title.css);
+@import url(../blocks/content-subtitle/content-subtitle.css);
+@import url(../blocks/comments/__continer/comments__container.css);
+@import url(../blocks/comment/comment.css);
+@import url(../blocks/comment/__author/comment__author.css);
+@import url(../blocks/comment/__image/comment__image.css);
+@import url(../blocks/comment/__quote/comment__quote.css);
+@import url(../blocks/comment/__quote-block/comment__quote-block.css);

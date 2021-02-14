@@ -1,0 +1,26 @@
+.comments__container {
+  display: flex;
+  align-content: flex-start;
+  flex-direction: row;
+  padding: 0;
+  margin: 72px auto 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .comments__container {
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 48px auto;
+  } 
+} 
+ 
+@media screen and (max-width: 767px) {
+  .comments__container {
+    flex-direction: column;
+    justify-content: space-between;
+  } 
+}
+
+.comments__container:last-child {
+  margin-bottom: 48px;
+}
