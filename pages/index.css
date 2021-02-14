@@ -56,3 +56,12 @@
 @import url(../blocks/comment/__image/comment__image.css);
 @import url(../blocks/comment/__quote/comment__quote.css);
 @import url(../blocks/comment/__quote-block/comment__quote-block.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__container/video__container.css);
+@import url(../blocks/video/__item_1/video__item_1.css);
+@import url(../blocks/video/__item_2/video__item_2.css);
+@import url(../blocks/video/__overlay/video__overlay.css);
+@import url(../blocks/video/__title/video__title.css);
+@import url(../blocks/video/__icon_play/video__icon_play.css);
+@import url(../blocks/video/__duration/video__duration.css);
+@import url(../blocks/video/__subtitle/video__subtitle.css);
